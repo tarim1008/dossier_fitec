@@ -1,0 +1,2 @@
+module mon_projet {
+}
